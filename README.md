@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexgyger an UX designer
+- 👋 Hi, I’m @alexgyger an UX designer on native android apps
 - 👀 I’m interested in UX and frontend technologies as HTML, CSS and JavaScript to create high-fidelity prototypes for usability tests.
 - 🌱 I’m currently learning how to use HTML Canvas to use for a signature widget within Axure RP.
 - 💞️ I’m looking to collaborate on ...
